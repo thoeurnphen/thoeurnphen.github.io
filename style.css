@@ -5,6 +5,13 @@
   margin-right: -0.75rem;
   margin-top: -0.75rem;
 }
+.rows img{
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+    border: 10px solid red;
+
+}
 
 .row:last-child {
   margin-bottom: -0.75rem;
