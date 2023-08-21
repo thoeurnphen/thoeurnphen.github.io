@@ -5,6 +5,14 @@
   margin-right: -0.75rem;
   margin-top: -0.75rem;
 }
+.rows {
+   
+   display: flex;
+   justify-content: left;
+   align-items: left;
+    background-color:transparent;
+
+}
 .rows img{
     height: 200px;
     width: auto;
