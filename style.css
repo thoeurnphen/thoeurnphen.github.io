@@ -15,7 +15,7 @@
 }
 .rows img{
     height: auto;
-    width: auto;
+    width: 300px;
     border-radius: 50%;
     border: 10px solid red;
     
