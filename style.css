@@ -14,10 +14,11 @@
 
 }
 .rows img{
-    height: 150px;
+    height: auto;
     width: 150px;
     border-radius: 50%;
     border: 10px solid red;
+    max-width: 50%;
 
 }
 
